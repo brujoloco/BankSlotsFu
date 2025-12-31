@@ -44,9 +44,9 @@ BankSlotsFu is designed to be used alongside BagSlotsFu,located here: ![BagSlots
 
 Together, they provide a complete overview of your inventory and bank space for efficient resource management.
 
-Feedback and Support
+## Feedback and Support
 If you encounter issues or have suggestions for improvements, please open an issue.
 
-License
+## License
 This project is licensed under the MIT License.
 
